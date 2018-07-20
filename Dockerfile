@@ -1,1 +1,1 @@
-FROM weaveworks/weave-kube:2.0.5
+FROM weaveworks/weave-kube:2.3.0
